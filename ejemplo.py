@@ -3,8 +3,8 @@
 lista = ['a', "b", 3, 234.23]
 
 diccionario = { 'llave': "valor",
-                'nombre': "Rodrigo",
-                'estatura': 1.72,
+                'nombre': "Hugo",
+                'estatura': 1.77,
                 'items': lista }
 
 
